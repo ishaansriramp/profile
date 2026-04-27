@@ -1,41 +1,5 @@
-# 👋 Hi, I'm Ishaan Sriram 
-### AI/ML Enthusiast | Student Leader | Developer
+## Certifications
 
-I am a 10th-grade student based in Fremont, California, passionate about the intersection of Artificial Intelligence and real-world problem solving. Currently, I'm focused on building community through technology and expanding my knowledge in machine learning architectures.
-
----
-
-### 🚀 Leadership & Projects
-* **Founder & President | High School AI/ML Club** * Leading weekly workshops on Python, Data Science, and Neural Network fundamentals.
-  * Coordinating collaborative projects to help peers build their first ML models.
-* **AI/ML Research & Development**
-  * Developing projects focused on [Insert specific interest, e.g., Computer Vision or NLP].
-  * Exploring data-driven solutions through structured summer internships.
-
----
-
-### 🛠️ Technical Toolbox
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📜 Certifications & Learning
-* **Machine Learning Specialization** | Coursera (DeepLearning.AI & Stanford)
-* **Python for Data Science** | Coursera
-* **Preparing for:** ACTFL Language Proficiency Certification
-
----
-
-### 📊 GitHub Stats
-![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishaansriramp&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaansriramp&layout=compact&theme=radical)
-
----
-
-### 🤝 Connect with Me
-* 📍 Based in **Fremont, CA**
-* ⚡ Fun Fact: Currently exploring the mechanics of **Silver Silverside** fish species for a biology-tech crossover project.
+- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/verify/9SCMU2JMAFBX)
+- [Python for Everybody Specialization](https://www.coursera.org/verify/XQS5Q3R6VJD3)
+- [Data Science Professional Certificate](https://www.coursera.org/verify/JB7DFG6XZTXF)
