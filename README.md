@@ -32,4 +32,3 @@ I am a 9th-grade student based in Fremont, California, passionate about the inte
 
 ### 🤝 Connect with Me
 * 📍 Based in **Fremont, CA**
-* ⚡ Fun Fact: Currently exploring the mechanics of **Silver Silverside** fish species for a biology-tech crossover project.
